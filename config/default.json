@@ -1,0 +1,4 @@
+{
+  "mongoUri": "mongodb+srv://ignat:12341234@cluster0.066yp.azure.mongodb.net/mern-social?retryWrites=true&w=majority",
+  "jwtSecret": "SecretTokenJwt"
+}
