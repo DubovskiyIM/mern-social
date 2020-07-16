@@ -1,4 +1,6 @@
 {
   "mongoUri": "mongodb+srv://ignat:12341234@cluster0.066yp.azure.mongodb.net/mern-social?retryWrites=true&w=majority",
-  "jwtSecret": "SecretTokenJwt"
+  "jwtSecret": "SecretTokenJwt",
+  "githubClientId": "1fbfe2d9a9593de14c04",
+  "githubSecret": "1a20e3b912dd73a96d4cde8b44256f78bde04492"
 }
