@@ -38,7 +38,7 @@ img {
 .container {
   max-width: 1100px;
   overflow: hidden;
-  margin: 3rem auto 3rem;
+  margin: 6rem auto 3rem;
   padding: 0 2rem;
 }
 
@@ -250,6 +250,7 @@ img {
 .form input[type='date'],
 .form select,
 .form textarea {
+  font-family: 'Raleway', serif;
   display: block;
   width: 100%;
   padding: 0.6rem;
@@ -258,6 +259,9 @@ img {
 }
 
 .form input:focus::placeholder {
+  color: transparent;
+}
+.form textarea:focus::placeholder {
   color: transparent;
 }
 
